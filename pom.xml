@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.jackwaudby</groupId>
-    <artifactId>edge-rc</artifactId>
+    <artifactId>epew</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -14,13 +14,13 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-    <dependencies>
-        <dependency>
-            <groupId>com.jackwaudby</groupId>
-            <artifactId>eventsim</artifactId>
-            <version>1.0-SNAPSHOT</version>
-        </dependency>
-    </dependencies>
+    <!-- <dependencies> -->
+    <!--     <dependency> -->
+    <!--         <groupId>com.jackwaudby</groupId> -->
+    <!--         <artifactId>eventsim</artifactId> -->
+    <!--         <version>1.0-SNAPSHOT</version> -->
+    <!--     </dependency> -->
+    <!-- </dependencies -->>
 
     <build>
         <plugins>
