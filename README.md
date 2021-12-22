@@ -1,6 +1,6 @@
 # A Design and Evaluation of an Edge Concurrency Control Protocol for Distributed Graph Databases #
 
-The repository currently contains the paper, slide deck and simulation code for "A Design and Evaluation of an Edge Concurrency Control Protocol for Distributed Graph Databases" that was been accepted at [EPEW 2019](https://www.epew19.deib.polimi.it).
+The repository currently contains the paper, slide deck and simulation code for "A Design and Evaluation of an Edge Concurrency Control Protocol for Distributed Graph Databases" that was published at [EPEW 2019](https://www.epew19.deib.polimi.it).
 
 ## Background ##
 
